@@ -1,0 +1,16 @@
+#tab_style{
+	border-collapse: collapse;
+
+}
+#tab_style td, #tab_style th{
+	border: 1px solid #ddd;
+	padding: 8px;
+
+}
+#tab_style th{
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #166fea;
+	color: white;
+}
